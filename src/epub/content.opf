@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:edition-number">0</meta>
+		<dc:date>2016-09-28T15:11:54Z</dc:date>
+		<meta property="dcterms:modified">2016-09-28T15:11:54Z</meta>
+		<meta property="se:edition-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,16 +28,19 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/17396</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/17396</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Childrens</meta>
+		<dc:description id="description">A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Mary&amp;rsquo;s parents fall ill and die, forcing her to be transplanted from India to the English countryside.  She arrives at a strange and foreign country manor, where she discovers a long-neglected garden and hears strange sobbing noises at night.&lt;/p&gt;
+			&lt;p&gt;Thus begins &lt;i&gt;The Secret Garden&lt;/i&gt;, a children&amp;rsquo;s book with an unusually dense collection of themes, symbols, and motifs.  Mary&amp;rsquo;s personal development mirrors her unraveling the secret of the hidden garden, and a subtle backdrop of magical realism adds a mysterious air to the proceedings.&lt;/p&gt;
+			&lt;p&gt;Contemporary reception left &lt;i&gt;The Secret Garden&lt;/i&gt; largely unnoticed, eclipsed by Hodgson&amp;rsquo;s other work, &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;.  Since then, however, the book&amp;rsquo;s reputation has steadily grown, with modern critics considering it one of the finest children&amp;rsquo;s books of the 20th century.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17396</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006781008</dc:source>
-		<meta property="se:word-count">82699</meta>
+		<meta property="se:word-count">82702</meta>
 		<meta property="se:reading-ease.flesch">82.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_Garden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frances-hodgson-burnett_the-secret-garden</meta>
@@ -73,6 +76,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alina Pyzowski</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Pyzowski, Alina</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
