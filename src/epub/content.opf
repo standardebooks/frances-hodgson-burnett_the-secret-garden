@@ -32,9 +32,9 @@
 		<dc:description id="description">A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Mary&amp;rsquo;s parents fall ill and die, forcing her to be transplanted from India to the English countryside.  She arrives at a strange and foreign country manor, where she discovers a long-neglected garden and hears strange sobbing noises at night.&lt;/p&gt;
-			&lt;p&gt;Thus begins &lt;i&gt;The Secret Garden&lt;/i&gt;, a children&amp;rsquo;s book with an unusually dense collection of themes, symbols, and motifs.  Mary&amp;rsquo;s personal development mirrors her unraveling the secret of the hidden garden, and a subtle backdrop of magical realism adds a mysterious air to the proceedings.&lt;/p&gt;
-			&lt;p&gt;Contemporary reception left &lt;i&gt;The Secret Garden&lt;/i&gt; largely unnoticed, eclipsed by Hodgson&amp;rsquo;s other work, &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;.  Since then, however, the book&amp;rsquo;s reputation has steadily grown, with modern critics considering it one of the finest children&amp;rsquo;s books of the 20th century.&lt;/p&gt;
+			&lt;p&gt;Mary’s parents fall ill and die, forcing her to be transplanted from India to the English countryside.  She arrives at a strange and foreign country manor, where she discovers a long-neglected garden and hears strange sobbing noises at night.&lt;/p&gt;
+			&lt;p&gt;Thus begins &lt;i&gt;The Secret Garden&lt;/i&gt;, a children’s book with an unusually dense collection of themes, symbols, and motifs.  Mary’s personal development mirrors her unraveling the secret of the hidden garden, and a subtle backdrop of magical realism adds a mysterious air to the proceedings.&lt;/p&gt;
+			&lt;p&gt;Contemporary reception left &lt;i&gt;The Secret Garden&lt;/i&gt; largely unnoticed, eclipsed by Hodgson’s other work, &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;.  Since then, however, the book’s reputation has steadily grown, with modern critics considering it one of the finest children’s books of the 20th century.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
