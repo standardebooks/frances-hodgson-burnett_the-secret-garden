@@ -26,27 +26,29 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Secret Garden</dc:title>
 		<meta property="file-as" refines="#title">Secret Garden, The</meta>
 		<dc:subject id="subject-1">Orphans -- Fiction</dc:subject>
 		<dc:subject id="subject-2">People with disabilities -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Gardens -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Yorkshire (England) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/17396</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/17396</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/17396</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/17396</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008108587</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109042</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008105046</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008114027</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
 		<dc:description id="description">A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Mary’s parents fall ill and die, forcing her to be transplanted from India to the English countryside. She arrives at a strange and foreign country manor, where she discovers a long-neglected garden and hears strange sobbing noises at night.&lt;/p&gt;
 			&lt;p&gt;Thus begins &lt;i&gt;The Secret Garden&lt;/i&gt;, a children’s book with an unusually dense collection of themes, symbols, and motifs. Mary’s personal development mirrors her unraveling the secret of the hidden garden, and a subtle backdrop of magical realism adds a mysterious air to the proceedings.&lt;/p&gt;
 			&lt;p&gt;Contemporary reception left &lt;i&gt;The Secret Garden&lt;/i&gt; largely unnoticed, eclipsed by Hodgson’s other work, &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;. Since then, however, the book’s reputation has steadily grown, with modern critics considering it one of the finest children’s books of the 20th century.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17396</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006781008</dc:source>
