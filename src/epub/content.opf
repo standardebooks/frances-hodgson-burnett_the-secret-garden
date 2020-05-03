@@ -41,8 +41,8 @@
 		<meta property="term" refines="#subject-3">sh2008105046</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008114027</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Mary’s parents fall ill and die, forcing her to be transplanted from India to the English countryside. She arrives at a strange and foreign country manor, where she discovers a long-neglected garden and hears strange sobbing noises at night.&lt;/p&gt;
