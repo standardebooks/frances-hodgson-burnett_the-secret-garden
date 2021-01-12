@@ -52,7 +52,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17396</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006781008</dc:source>
-		<meta property="se:word-count">82704</meta>
+		<meta property="se:word-count">82703</meta>
 		<meta property="se:reading-ease.flesch">82.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_Garden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frances-hodgson-burnett_the-secret-garden</meta>
