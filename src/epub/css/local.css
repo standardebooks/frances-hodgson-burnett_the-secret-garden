@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 p[epub|type~="z3998:salutation"],
