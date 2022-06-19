@@ -40,7 +40,7 @@
 		<meta property="term" refines="#subject-3">sh2008105046</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008114027</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young girl is moved to the English countryside where she starts restoring a neglected garden, and uncovers secrets in the process.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
